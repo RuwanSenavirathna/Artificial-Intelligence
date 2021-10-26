@@ -10,5 +10,5 @@ Creating an AI model which is trained on real data using Python.
 
 
 ## Languages / Covered topics
-+ Python,Tensorflow/Keras and scikit-learn
++ Python, Tensorflow/Keras and scikit-learn
 + LEARN: Artificial Intelligence projects with Python, Google Colab
