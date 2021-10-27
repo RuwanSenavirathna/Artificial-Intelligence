@@ -1,4 +1,4 @@
-# Artificial-Intelegent
+# Artificial Intelligence
 
 Creating an AI model which is trained on real data using Python.
 
